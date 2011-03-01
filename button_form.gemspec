@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "button_form"
   s.version     = ButtonForm::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.authors     = ["Josep M. Bach", "Josep Jaume Rey", "Oriol Gual"]
+  s.email       = ["info@codegram.com"]
+  s.homepage    = "http://github.com/codegram/form_button"
+  s.summary     = %q{form_button replaces all <input type="submit"/> tags with <button/> in your forms}
+  s.description     = %q{form_button replaces all <input type="submit"/> tags with <button/> in your forms}
 
   s.rubyforge_project = "button_form"
 
