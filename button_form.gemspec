@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Josep M. Bach", "Josep Jaume Rey", "Oriol Gual"]
   s.email       = ["info@codegram.com"]
   s.homepage    = "http://github.com/codegram/form_button"
-  s.summary     = %q{form_button replaces all <input type="submit"/> tags with <button/> in your forms}
-  s.description     = %q{form_button replaces all <input type="submit"/> tags with <button/> in your forms}
+  s.summary     = %q{button_form replaces all <input type="submit"/> tags with <button/> in your forms}
+  s.description     = %q{button_form replaces all <input type="submit"/> tags with <button/> in your forms}
 
   s.rubyforge_project = "button_form"
 
