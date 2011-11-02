@@ -6,4 +6,4 @@ This simple gem will make all your Rails 3 forms use \<button/\> tags instead of
 
 In your Gemfile:
 
-    gem 'form_button'
+    gem 'button_form'
