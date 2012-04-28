@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "button_form"
 
   s.add_development_dependency "rspec"
-  s.add_runtime_dependency "rails", "~> 3.0"
+  s.add_runtime_dependency "actionpack", "~> 3.0"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
